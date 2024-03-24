@@ -8,3 +8,4 @@ SaveWaypoint:
 
 judge:
 + Makes banning with Priso possible by switching dimensions
++ date of creation: 12.03.2024
